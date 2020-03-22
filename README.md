@@ -14,5 +14,6 @@
   - [x] Nav, Grid, Cards, Form con boostrapvue
 
 - [ ] Tutorial medio (Vuetify, Axios y Vuex)
-  - [ ] Configuration vuetify
+  - [x] App calendar dolar API
+  - [] Practicar material design
 - [ ] Tutorial avanzado

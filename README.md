@@ -16,5 +16,7 @@
 - [ ] Tutorial medio (Vuetify, Axios y Vuex)
   - [x] App calendar dolar API
   - [x] Practicar material design Grids
-  - [ ] Practicar material design Grids
+  - [x] Practicar material design Grids 2
+  - [x] Practicar material design buttons
+  - [ ] Practicar material design vertical menu
 - [ ] Tutorial avanzado

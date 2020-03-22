@@ -14,4 +14,5 @@
   - [x] Nav, Grid, Cards, Form con boostrapvue
 
 - [ ] Tutorial medio (Vuetify, Axios y Vuex)
+  - [ ] Configuration vuetify
 - [ ] Tutorial avanzado

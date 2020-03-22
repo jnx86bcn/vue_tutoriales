@@ -15,5 +15,5 @@
 
 - [ ] Tutorial medio (Vuetify, Axios y Vuex)
   - [x] App calendar dolar API
-  - [] Practicar material design
+  - [ ] Practicar material design
 - [ ] Tutorial avanzado

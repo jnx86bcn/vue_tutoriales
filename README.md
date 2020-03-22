@@ -1,4 +1,4 @@
-# vue_tutoriales
+# VUE tutoriales
 
 - [x] Tutorial básico (vue sin vuex, con vuex, cli, routing y bootrapvue) 10 ejemplos
 

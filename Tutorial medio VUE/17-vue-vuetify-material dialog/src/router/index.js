@@ -25,9 +25,14 @@ const routes = [
 		component: () => import(/* webpackChunkName: "Buttons" */ '../views/Buttons.vue')
 	},
 	{
-		path: '/Cards',
+		path: '/cards',
 		name: 'Cards',
 		component: () => import(/* webpackChunkName: "Cards" */ '../views/Cards.vue')
+	},
+	{
+		path: '/dialogs',
+		name: 'Dialogs',
+		component: () => import(/* webpackChunkName: "Dialogs" */ '../views/Dialogs.vue')
 	}
 ];
 

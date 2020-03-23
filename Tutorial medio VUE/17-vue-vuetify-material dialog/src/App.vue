@@ -33,6 +33,11 @@
             <v-list-item-title>Cards</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item link :to="{name: 'Dialogs'}">
+          <v-list-item-content>
+            <v-list-item-title>Dialogs</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
     <v-content>

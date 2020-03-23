@@ -28,6 +28,11 @@
             <v-list-item-title>Buttons</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item link :to="{name: 'Cards'}">
+          <v-list-item-content>
+            <v-list-item-title>Cards</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
     <v-content>

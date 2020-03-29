@@ -33,6 +33,11 @@ const routes = [
 		path: '/dialogs',
 		name: 'Dialogs',
 		component: () => import(/* webpackChunkName: "Dialogs" */ '../views/Dialogs.vue')
+	},
+	{
+		path: '/crud',
+		name: 'Crud',
+		component: () => import(/* webpackChunkName: "Dialogs" */ '../views/Crud.vue')
 	}
 ];
 

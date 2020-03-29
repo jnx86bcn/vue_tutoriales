@@ -38,6 +38,11 @@
             <v-list-item-title>Dialogs</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item link :to="{name: 'Crud'}">
+          <v-list-item-content>
+            <v-list-item-title>Crud</v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
     <v-content>
